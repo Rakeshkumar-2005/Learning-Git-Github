@@ -1,5 +1,3 @@
-
-# NEW Project 
 # Learning-Git-Github
 Learning git and github 
 
